@@ -1,0 +1,10 @@
+{
+  "-50,19": {
+    "gather": true,
+    "direction": "right"
+  },
+  "-49,19": {
+    "gather": true,
+    "direction": "left"
+  }
+}
